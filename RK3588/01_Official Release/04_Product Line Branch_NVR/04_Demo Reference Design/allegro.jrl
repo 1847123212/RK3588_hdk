@@ -1,0 +1,13 @@
+\t (00:00:11) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:11)     Journal start - Tue Feb 22 13:59:49 2022
+\t (00:00:11)         Host=DEEP-2021JIGDFI User=Administrator Pid=5052 CPUs=12
+\t (00:00:11) 
+\t (00:00:12) Opening existing design...
+\d (00:00:12) Database opened: H:/RK×ÊÁÏ/RK3588/01_Official Release/04_Product Line Branch_NVR/04_Demo Reference Design/RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228_final_lint.brd
+\i (00:00:13) trapsize 4162
+\i (00:00:13) trapsize 4086
+\i (00:00:13) trapsize 4175
+\i (00:00:13) trapsize 4212
+\i (00:00:14) generaledit 
+\i (00:03:27) exit 
+\t (00:03:28)     Journal end - Tue Feb 22 14:03:06 2022
